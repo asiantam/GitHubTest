@@ -1,4 +1,0 @@
-GitHubTest
-==========
-
-GitHubTest
